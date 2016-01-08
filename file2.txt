@@ -1,8 +1,2 @@
 change1
 change2
-<<<<<<< HEAD
-change5
-
-=======
-change4
->>>>>>> master
